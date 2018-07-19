@@ -1,2 +1,2 @@
-# nsat
+# sat
 SAT solver
